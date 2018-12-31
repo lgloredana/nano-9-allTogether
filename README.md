@@ -5,6 +5,10 @@ A React app that shows 2 chat windows for the two existing users - Amy and John.
 ![ScreenShot](/src/img/capture-screen.png)
 # In the project directory, you can run:
 
+### `npm install`
+
+Intall all the librarys.
+
 ### `npm start`
 
 Runs the app in the development mode.<br>
